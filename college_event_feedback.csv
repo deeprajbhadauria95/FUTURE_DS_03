@@ -1,0 +1,401 @@
+Student_ID,Event_Name,Rating (1-5),Would_Recommend,Feedback,Venue,Mode,Duration_hours
+1,Science Fair 2025,5,Yes,Workshops were insightful and engaging.,Hall B,Offline,3
+2,Sports Meet 2025,2,Yes,Event started late and schedule was confusing.,Hall B,Offline,4
+3,Sports Meet 2025,3,No,Okay experience for a first-time attendee.,Conference Room D,Offline,4
+4,Cultural Fest 2025,1,No,Lunch quality could be better.,Hall B,Online,2
+5,Cultural Fest 2025,3,Yes,"Event was okay, nothing special.",Hall B,Offline,4
+6,Cultural Fest 2025,1,Yes,Not enough Q&A time after sessions.,Open Air Theater,Offline,4
+7,Sports Meet 2025,2,Yes,Not enough seating arrangements for attendees.,Ground C,Offline,2
+8,Cultural Fest 2025,4,Yes,Workshops were insightful and engaging.,Auditorium A,Hybrid,5
+9,Startup Summit 2025,5,Yes,Great networking opportunities and very well organized.,Open Air Theater,Online,3
+10,Science Fair 2025,2,No,Guest lectures were boring and repetitive.,Auditorium A,Offline,2
+11,Cultural Fest 2025,2,No,Too crowded and noisy.,Ground C,Online,3
+12,Startup Summit 2025,5,Yes,"Wonderful experience, looking forward to next year.",Ground C,Hybrid,4
+13,TechFest 2025,1,Yes,Event started late and schedule was confusing.,Hall B,Hybrid,5
+14,Startup Summit 2025,4,Yes,Enjoyed the cultural programs and games.,Open Air Theater,Offline,3
+15,Science Fair 2025,4,Yes,Superb management and quality content.,Hall B,Hybrid,5
+16,Cultural Fest 2025,1,No,Sessions were too long and lacked interaction.,Open Air Theater,Online,3
+17,Cultural Fest 2025,4,Yes,Superb management and quality content.,Auditorium A,Hybrid,5
+18,Cultural Fest 2025,5,Yes,Excellent guest lectures and interactive sessions.,Auditorium A,Hybrid,2
+19,Cultural Fest 2025,4,Yes,Superb management and quality content.,Ground C,Offline,4
+20,Cultural Fest 2025,3,No,Okay experience for a first-time attendee.,Open Air Theater,Online,6
+21,Cultural Fest 2025,2,Yes,Sound system had frequent issues.,Auditorium A,Online,4
+22,Science Fair 2025,2,Yes,Not enough Q&A time after sessions.,Conference Room D,Online,3
+23,Cultural Fest 2025,2,No,Not enough Q&A time after sessions.,Conference Room D,Hybrid,2
+24,Sports Meet 2025,1,Yes,Not enough Q&A time after sessions.,Conference Room D,Hybrid,6
+25,Cultural Fest 2025,2,No,Guest lectures were boring and repetitive.,Auditorium A,Online,6
+26,Sports Meet 2025,3,Yes,The day went smoothly but could be improved.,Ground C,Offline,4
+27,Cultural Fest 2025,1,No,Event started late and schedule was confusing.,Open Air Theater,Hybrid,3
+28,Sports Meet 2025,1,No,Poor time management and technical issues during presentations.,Auditorium A,Offline,4
+29,Sports Meet 2025,5,Yes,"Wonderful experience, looking forward to next year.",Conference Room D,Offline,3
+30,Science Fair 2025,5,Yes,Great networking opportunities and very well organized.,Open Air Theater,Hybrid,6
+31,Startup Summit 2025,4,Yes,Enjoyed the cultural programs and games.,Conference Room D,Offline,3
+32,Cultural Fest 2025,5,Yes,Excellent guest lectures and interactive sessions.,Conference Room D,Online,3
+33,Sports Meet 2025,5,Yes,The event exceeded my expectations.,Auditorium A,Hybrid,5
+34,Science Fair 2025,4,Yes,Enjoyed the cultural programs and games.,Hall B,Online,4
+35,Science Fair 2025,2,No,Workshops were rushed and lacked depth.,Open Air Theater,Hybrid,4
+36,TechFest 2025,5,Yes,Workshops were insightful and engaging.,Conference Room D,Offline,2
+37,Cultural Fest 2025,2,No,Sound system had frequent issues.,Conference Room D,Hybrid,6
+38,Cultural Fest 2025,5,Yes,Good coordination and helpful volunteers.,Open Air Theater,Hybrid,6
+39,Cultural Fest 2025,5,Yes,The event exceeded my expectations.,Open Air Theater,Online,4
+40,Startup Summit 2025,5,Yes,Excellent guest lectures and interactive sessions.,Open Air Theater,Hybrid,5
+41,Cultural Fest 2025,1,No,Sessions were too long and lacked interaction.,Open Air Theater,Hybrid,3
+42,Startup Summit 2025,3,Yes,Overall fine but needs better planning.,Hall B,Offline,3
+43,Startup Summit 2025,2,Yes,Too crowded and noisy.,Hall B,Hybrid,6
+44,Sports Meet 2025,4,Yes,Superb management and quality content.,Conference Room D,Offline,5
+45,TechFest 2025,5,Yes,Superb management and quality content.,Open Air Theater,Offline,6
+46,Science Fair 2025,1,No,Sessions were too long and lacked interaction.,Ground C,Online,2
+47,Science Fair 2025,3,Yes,The day went smoothly but could be improved.,Hall B,Online,2
+48,Cultural Fest 2025,2,No,Not enough seating arrangements for attendees.,Auditorium A,Offline,2
+49,Science Fair 2025,4,Yes,"Wonderful experience, looking forward to next year.",Hall B,Online,5
+50,Science Fair 2025,2,No,Sessions were too long and lacked interaction.,Hall B,Hybrid,2
+51,TechFest 2025,4,Yes,Superb management and quality content.,Conference Room D,Offline,3
+52,Cultural Fest 2025,5,Yes,Amazing event! Loved the workshops and guest speakers.,Conference Room D,Hybrid,4
+53,Science Fair 2025,2,No,Event started late and schedule was confusing.,Auditorium A,Online,6
+54,Science Fair 2025,4,Yes,Good coordination and helpful volunteers.,Auditorium A,Hybrid,2
+55,Startup Summit 2025,5,Yes,"Wonderful experience, looking forward to next year.",Ground C,Offline,3
+56,Science Fair 2025,3,No,Moderate experience overall.,Open Air Theater,Hybrid,2
+57,Science Fair 2025,5,Yes,The event exceeded my expectations.,Ground C,Online,6
+58,TechFest 2025,1,Yes,Event started late and schedule was confusing.,Conference Room D,Offline,3
+59,Science Fair 2025,1,Yes,Event started late and schedule was confusing.,Hall B,Offline,5
+60,Science Fair 2025,1,No,Workshops were rushed and lacked depth.,Ground C,Offline,4
+61,Cultural Fest 2025,1,Yes,Event started late and schedule was confusing.,Ground C,Online,4
+62,Startup Summit 2025,4,Yes,Workshops were insightful and engaging.,Hall B,Hybrid,6
+63,Sports Meet 2025,3,Yes,The event went as expected.,Ground C,Online,3
+64,Science Fair 2025,1,No,Event started late and schedule was confusing.,Hall B,Offline,4
+65,TechFest 2025,5,Yes,Excellent guest lectures and interactive sessions.,Open Air Theater,Online,2
+66,Startup Summit 2025,1,No,Sessions were too long and lacked interaction.,Open Air Theater,Hybrid,4
+67,Sports Meet 2025,4,Yes,Amazing event! Loved the workshops and guest speakers.,Conference Room D,Hybrid,5
+68,Science Fair 2025,2,No,Sound system had frequent issues.,Open Air Theater,Hybrid,4
+69,Startup Summit 2025,5,Yes,Workshops were insightful and engaging.,Ground C,Online,3
+70,TechFest 2025,4,Yes,Good coordination and helpful volunteers.,Conference Room D,Online,6
+71,TechFest 2025,2,Yes,Sessions were too long and lacked interaction.,Auditorium A,Offline,2
+72,Cultural Fest 2025,2,No,Poor time management and technical issues during presentations.,Hall B,Online,5
+73,TechFest 2025,3,Yes,Overall fine but needs better planning.,Hall B,Online,2
+74,Science Fair 2025,5,Yes,The event exceeded my expectations.,Open Air Theater,Hybrid,5
+75,TechFest 2025,2,No,Sound system had frequent issues.,Hall B,Online,6
+76,Startup Summit 2025,4,Yes,Amazing event! Loved the workshops and guest speakers.,Conference Room D,Online,4
+77,Cultural Fest 2025,4,Yes,Loved the variety of topics covered.,Ground C,Online,3
+78,Sports Meet 2025,2,Yes,Poor time management and technical issues during presentations.,Conference Room D,Offline,2
+79,Science Fair 2025,1,Yes,Workshops were rushed and lacked depth.,Auditorium A,Hybrid,3
+80,Startup Summit 2025,5,Yes,Great networking opportunities and very well organized.,Conference Room D,Offline,3
+81,TechFest 2025,4,Yes,"Wonderful experience, looking forward to next year.",Auditorium A,Online,6
+82,TechFest 2025,1,Yes,Too crowded and noisy.,Conference Room D,Online,5
+83,Cultural Fest 2025,4,Yes,Superb management and quality content.,Ground C,Online,4
+84,Startup Summit 2025,5,Yes,Good coordination and helpful volunteers.,Hall B,Hybrid,3
+85,Science Fair 2025,4,Yes,Excellent guest lectures and interactive sessions.,Auditorium A,Online,2
+86,Cultural Fest 2025,1,Yes,Not enough Q&A time after sessions.,Ground C,Hybrid,6
+87,TechFest 2025,4,Yes,Amazing event! Loved the workshops and guest speakers.,Auditorium A,Offline,4
+88,Startup Summit 2025,1,Yes,Event started late and schedule was confusing.,Ground C,Offline,3
+89,Sports Meet 2025,3,Yes,"Event was okay, nothing special.",Open Air Theater,Online,5
+90,TechFest 2025,3,No,The event went as expected.,Ground C,Offline,2
+91,TechFest 2025,4,Yes,Great networking opportunities and very well organized.,Open Air Theater,Hybrid,5
+92,TechFest 2025,1,Yes,Poor time management and technical issues during presentations.,Conference Room D,Hybrid,2
+93,Science Fair 2025,3,No,"It was average, some parts were good, some not.",Conference Room D,Offline,6
+94,TechFest 2025,2,Yes,Workshops were rushed and lacked depth.,Hall B,Offline,6
+95,TechFest 2025,5,Yes,Good coordination and helpful volunteers.,Conference Room D,Online,2
+96,Startup Summit 2025,5,Yes,Superb management and quality content.,Hall B,Offline,5
+97,Startup Summit 2025,4,Yes,"Wonderful experience, looking forward to next year.",Auditorium A,Offline,2
+98,Cultural Fest 2025,4,Yes,Enjoyed the cultural programs and games.,Open Air Theater,Online,6
+99,Startup Summit 2025,2,No,Guest lectures were boring and repetitive.,Hall B,Hybrid,5
+100,Science Fair 2025,3,No,Moderate experience overall.,Open Air Theater,Offline,2
+101,Sports Meet 2025,5,Yes,Excellent guest lectures and interactive sessions.,Ground C,Online,3
+102,Sports Meet 2025,5,Yes,Workshops were insightful and engaging.,Auditorium A,Offline,6
+103,Sports Meet 2025,1,No,Sessions were too long and lacked interaction.,Conference Room D,Hybrid,2
+104,Startup Summit 2025,2,Yes,Guest lectures were boring and repetitive.,Conference Room D,Online,5
+105,Science Fair 2025,5,Yes,Superb management and quality content.,Open Air Theater,Online,6
+106,Science Fair 2025,2,No,Workshops were rushed and lacked depth.,Conference Room D,Offline,5
+107,Cultural Fest 2025,4,Yes,"Wonderful experience, looking forward to next year.",Auditorium A,Hybrid,2
+108,Sports Meet 2025,1,No,Sound system had frequent issues.,Hall B,Online,6
+109,Startup Summit 2025,5,Yes,The event exceeded my expectations.,Ground C,Hybrid,2
+110,Startup Summit 2025,3,No,Had both positives and negatives.,Ground C,Offline,6
+111,Science Fair 2025,2,No,Too crowded and noisy.,Auditorium A,Online,2
+112,Startup Summit 2025,1,No,Guest lectures were boring and repetitive.,Hall B,Offline,6
+113,Cultural Fest 2025,4,Yes,Workshops were insightful and engaging.,Auditorium A,Offline,4
+114,Cultural Fest 2025,1,Yes,Too crowded and noisy.,Auditorium A,Online,6
+115,Science Fair 2025,5,Yes,The event exceeded my expectations.,Auditorium A,Hybrid,6
+116,Sports Meet 2025,1,No,Event started late and schedule was confusing.,Open Air Theater,Online,3
+117,Cultural Fest 2025,2,Yes,Workshops were rushed and lacked depth.,Conference Room D,Hybrid,2
+118,Cultural Fest 2025,3,No,Had both positives and negatives.,Ground C,Offline,6
+119,Startup Summit 2025,3,No,"Event was okay, nothing special.",Ground C,Offline,3
+120,Science Fair 2025,5,Yes,Amazing event! Loved the workshops and guest speakers.,Auditorium A,Offline,5
+121,TechFest 2025,3,Yes,Overall fine but needs better planning.,Conference Room D,Hybrid,3
+122,TechFest 2025,5,Yes,Excellent guest lectures and interactive sessions.,Conference Room D,Offline,4
+123,TechFest 2025,5,Yes,The event exceeded my expectations.,Conference Room D,Offline,3
+124,TechFest 2025,3,No,"Neither good nor bad, just fine.",Hall B,Hybrid,3
+125,Science Fair 2025,5,Yes,Loved the variety of topics covered.,Ground C,Offline,4
+126,Science Fair 2025,1,Yes,Sessions were too long and lacked interaction.,Open Air Theater,Hybrid,5
+127,Science Fair 2025,4,Yes,"Wonderful experience, looking forward to next year.",Auditorium A,Hybrid,2
+128,TechFest 2025,3,No,Moderate experience overall.,Hall B,Offline,4
+129,Science Fair 2025,3,No,The event went as expected.,Open Air Theater,Online,2
+130,Startup Summit 2025,2,Yes,Too crowded and noisy.,Conference Room D,Offline,6
+131,Startup Summit 2025,4,Yes,The event exceeded my expectations.,Hall B,Online,4
+132,Sports Meet 2025,2,No,Lunch quality could be better.,Hall B,Online,5
+133,Cultural Fest 2025,2,Yes,Guest lectures were boring and repetitive.,Hall B,Online,4
+134,TechFest 2025,2,No,Not enough Q&A time after sessions.,Hall B,Offline,5
+135,Startup Summit 2025,4,Yes,Excellent guest lectures and interactive sessions.,Open Air Theater,Hybrid,2
+136,TechFest 2025,3,Yes,"Neither good nor bad, just fine.",Ground C,Hybrid,5
+137,Sports Meet 2025,5,Yes,Excellent guest lectures and interactive sessions.,Hall B,Hybrid,3
+138,TechFest 2025,3,No,Moderate experience overall.,Hall B,Offline,5
+139,Startup Summit 2025,2,No,Not enough Q&A time after sessions.,Ground C,Offline,4
+140,TechFest 2025,1,Yes,Lunch quality could be better.,Auditorium A,Online,5
+141,Cultural Fest 2025,5,Yes,Enjoyed the cultural programs and games.,Open Air Theater,Online,6
+142,Science Fair 2025,3,No,"Event was okay, nothing special.",Conference Room D,Offline,4
+143,Cultural Fest 2025,1,Yes,Not enough Q&A time after sessions.,Auditorium A,Offline,2
+144,TechFest 2025,5,Yes,Great networking opportunities and very well organized.,Auditorium A,Hybrid,4
+145,Cultural Fest 2025,5,Yes,"Wonderful experience, looking forward to next year.",Conference Room D,Online,3
+146,TechFest 2025,3,Yes,"Some sessions were good, others not so much.",Auditorium A,Hybrid,6
+147,Cultural Fest 2025,5,Yes,Workshops were insightful and engaging.,Conference Room D,Hybrid,2
+148,Sports Meet 2025,2,No,Sound system had frequent issues.,Hall B,Hybrid,4
+149,Science Fair 2025,2,No,Sound system had frequent issues.,Open Air Theater,Hybrid,4
+150,Cultural Fest 2025,5,Yes,Loved the variety of topics covered.,Conference Room D,Hybrid,6
+151,Sports Meet 2025,1,Yes,Not enough Q&A time after sessions.,Open Air Theater,Online,3
+152,TechFest 2025,2,Yes,Lunch quality could be better.,Auditorium A,Online,4
+153,Startup Summit 2025,3,No,The event went as expected.,Open Air Theater,Offline,3
+154,Science Fair 2025,2,Yes,Event started late and schedule was confusing.,Auditorium A,Hybrid,6
+155,Science Fair 2025,3,No,"Event was okay, nothing special.",Auditorium A,Online,3
+156,Sports Meet 2025,5,Yes,The event exceeded my expectations.,Ground C,Hybrid,2
+157,TechFest 2025,4,Yes,The event exceeded my expectations.,Auditorium A,Online,6
+158,Cultural Fest 2025,1,Yes,Too crowded and noisy.,Auditorium A,Hybrid,4
+159,Startup Summit 2025,4,Yes,Excellent guest lectures and interactive sessions.,Auditorium A,Hybrid,2
+160,Sports Meet 2025,2,No,Not enough seating arrangements for attendees.,Auditorium A,Offline,4
+161,Cultural Fest 2025,1,Yes,Event started late and schedule was confusing.,Ground C,Offline,6
+162,Cultural Fest 2025,1,No,Sound system had frequent issues.,Auditorium A,Offline,2
+163,TechFest 2025,1,Yes,Not enough Q&A time after sessions.,Open Air Theater,Hybrid,2
+164,Sports Meet 2025,4,Yes,Workshops were insightful and engaging.,Hall B,Offline,5
+165,Sports Meet 2025,4,Yes,Amazing event! Loved the workshops and guest speakers.,Auditorium A,Hybrid,6
+166,TechFest 2025,2,Yes,Too crowded and noisy.,Open Air Theater,Hybrid,5
+167,TechFest 2025,2,No,Too crowded and noisy.,Conference Room D,Online,6
+168,TechFest 2025,5,Yes,"Wonderful experience, looking forward to next year.",Conference Room D,Online,3
+169,Cultural Fest 2025,2,Yes,Sessions were too long and lacked interaction.,Hall B,Online,4
+170,Science Fair 2025,2,No,Lunch quality could be better.,Auditorium A,Online,2
+171,TechFest 2025,4,Yes,Good coordination and helpful volunteers.,Auditorium A,Hybrid,6
+172,Startup Summit 2025,3,No,Had both positives and negatives.,Open Air Theater,Hybrid,3
+173,Cultural Fest 2025,5,Yes,"Wonderful experience, looking forward to next year.",Auditorium A,Hybrid,4
+174,Startup Summit 2025,2,No,Guest lectures were boring and repetitive.,Conference Room D,Online,5
+175,Sports Meet 2025,3,No,The day went smoothly but could be improved.,Open Air Theater,Hybrid,3
+176,Sports Meet 2025,2,No,Lunch quality could be better.,Auditorium A,Hybrid,3
+177,Startup Summit 2025,4,Yes,Workshops were insightful and engaging.,Hall B,Online,6
+178,Science Fair 2025,1,No,Not enough seating arrangements for attendees.,Auditorium A,Online,5
+179,TechFest 2025,2,No,Poor time management and technical issues during presentations.,Hall B,Offline,5
+180,Science Fair 2025,4,Yes,Superb management and quality content.,Open Air Theater,Online,4
+181,Sports Meet 2025,2,Yes,Too crowded and noisy.,Hall B,Hybrid,6
+182,Cultural Fest 2025,5,Yes,"Wonderful experience, looking forward to next year.",Auditorium A,Online,4
+183,Startup Summit 2025,1,No,Lunch quality could be better.,Ground C,Offline,4
+184,Sports Meet 2025,1,Yes,Too crowded and noisy.,Hall B,Online,2
+185,Science Fair 2025,4,Yes,Superb management and quality content.,Hall B,Hybrid,4
+186,TechFest 2025,3,Yes,"Some sessions were good, others not so much.",Ground C,Hybrid,5
+187,TechFest 2025,4,Yes,Enjoyed the cultural programs and games.,Ground C,Offline,4
+188,TechFest 2025,2,Yes,Guest lectures were boring and repetitive.,Open Air Theater,Offline,3
+189,Sports Meet 2025,2,No,Not enough seating arrangements for attendees.,Conference Room D,Offline,4
+190,Cultural Fest 2025,2,Yes,Sound system had frequent issues.,Conference Room D,Hybrid,3
+191,Startup Summit 2025,1,Yes,Lunch quality could be better.,Hall B,Hybrid,4
+192,Science Fair 2025,5,Yes,Good coordination and helpful volunteers.,Conference Room D,Offline,6
+193,Cultural Fest 2025,5,Yes,The event exceeded my expectations.,Open Air Theater,Hybrid,3
+194,Sports Meet 2025,3,Yes,Overall fine but needs better planning.,Ground C,Hybrid,5
+195,Startup Summit 2025,1,No,Poor time management and technical issues during presentations.,Ground C,Online,3
+196,Science Fair 2025,2,No,Event started late and schedule was confusing.,Ground C,Online,3
+197,TechFest 2025,1,No,Sessions were too long and lacked interaction.,Auditorium A,Online,4
+198,TechFest 2025,1,Yes,Too crowded and noisy.,Open Air Theater,Offline,4
+199,Cultural Fest 2025,2,No,Sessions were too long and lacked interaction.,Auditorium A,Offline,6
+200,Sports Meet 2025,4,Yes,"Wonderful experience, looking forward to next year.",Auditorium A,Online,4
+201,Sports Meet 2025,2,No,Workshops were rushed and lacked depth.,Ground C,Online,5
+202,Cultural Fest 2025,5,Yes,Workshops were insightful and engaging.,Ground C,Online,3
+203,Startup Summit 2025,2,No,Event started late and schedule was confusing.,Open Air Theater,Online,4
+204,Startup Summit 2025,5,Yes,Workshops were insightful and engaging.,Hall B,Hybrid,4
+205,TechFest 2025,2,No,Lunch quality could be better.,Ground C,Hybrid,2
+206,Science Fair 2025,5,Yes,Great networking opportunities and very well organized.,Hall B,Online,3
+207,Science Fair 2025,5,Yes,Loved the variety of topics covered.,Ground C,Online,4
+208,TechFest 2025,4,Yes,Loved the variety of topics covered.,Hall B,Online,4
+209,Cultural Fest 2025,4,Yes,Amazing event! Loved the workshops and guest speakers.,Ground C,Hybrid,2
+210,Sports Meet 2025,4,Yes,The event exceeded my expectations.,Conference Room D,Hybrid,4
+211,Cultural Fest 2025,2,Yes,Lunch quality could be better.,Auditorium A,Offline,2
+212,Cultural Fest 2025,4,Yes,Loved the variety of topics covered.,Ground C,Offline,5
+213,Startup Summit 2025,2,Yes,Not enough Q&A time after sessions.,Open Air Theater,Online,3
+214,Science Fair 2025,1,No,Event started late and schedule was confusing.,Ground C,Online,3
+215,Science Fair 2025,4,Yes,Workshops were insightful and engaging.,Conference Room D,Hybrid,4
+216,Sports Meet 2025,2,Yes,Lunch quality could be better.,Hall B,Offline,3
+217,Sports Meet 2025,3,No,Okay experience for a first-time attendee.,Ground C,Hybrid,4
+218,Startup Summit 2025,3,Yes,"Some sessions were good, others not so much.",Conference Room D,Hybrid,6
+219,TechFest 2025,5,Yes,The event exceeded my expectations.,Conference Room D,Offline,5
+220,Cultural Fest 2025,4,Yes,Superb management and quality content.,Auditorium A,Online,3
+221,Science Fair 2025,3,No,"Some sessions were good, others not so much.",Open Air Theater,Hybrid,2
+222,Sports Meet 2025,3,No,Overall fine but needs better planning.,Auditorium A,Hybrid,4
+223,Startup Summit 2025,4,Yes,"Wonderful experience, looking forward to next year.",Hall B,Hybrid,4
+224,TechFest 2025,5,Yes,"Wonderful experience, looking forward to next year.",Hall B,Online,2
+225,Cultural Fest 2025,5,Yes,Excellent guest lectures and interactive sessions.,Auditorium A,Offline,2
+226,Sports Meet 2025,2,Yes,Lunch quality could be better.,Auditorium A,Offline,5
+227,Science Fair 2025,5,Yes,Enjoyed the cultural programs and games.,Open Air Theater,Hybrid,6
+228,Science Fair 2025,1,No,Lunch quality could be better.,Conference Room D,Hybrid,6
+229,TechFest 2025,5,Yes,Workshops were insightful and engaging.,Hall B,Hybrid,4
+230,TechFest 2025,3,Yes,"It was average, some parts were good, some not.",Hall B,Hybrid,5
+231,TechFest 2025,5,Yes,"Wonderful experience, looking forward to next year.",Conference Room D,Hybrid,2
+232,Sports Meet 2025,3,No,Had both positives and negatives.,Hall B,Hybrid,6
+233,Startup Summit 2025,2,Yes,Not enough Q&A time after sessions.,Hall B,Hybrid,6
+234,Cultural Fest 2025,5,Yes,"Wonderful experience, looking forward to next year.",Conference Room D,Online,2
+235,Sports Meet 2025,3,Yes,"Some sessions were good, others not so much.",Hall B,Online,4
+236,Sports Meet 2025,2,No,Not enough seating arrangements for attendees.,Ground C,Online,2
+237,Cultural Fest 2025,3,No,The day went smoothly but could be improved.,Conference Room D,Hybrid,5
+238,Startup Summit 2025,5,Yes,Superb management and quality content.,Hall B,Online,6
+239,Startup Summit 2025,2,No,Lunch quality could be better.,Open Air Theater,Hybrid,5
+240,Startup Summit 2025,1,Yes,Not enough Q&A time after sessions.,Open Air Theater,Online,4
+241,Startup Summit 2025,1,No,Workshops were rushed and lacked depth.,Conference Room D,Online,6
+242,Sports Meet 2025,4,Yes,Amazing event! Loved the workshops and guest speakers.,Ground C,Offline,2
+243,Sports Meet 2025,2,Yes,Workshops were rushed and lacked depth.,Auditorium A,Hybrid,2
+244,TechFest 2025,3,No,The event went as expected.,Auditorium A,Hybrid,5
+245,Science Fair 2025,5,Yes,Excellent guest lectures and interactive sessions.,Open Air Theater,Offline,6
+246,Cultural Fest 2025,5,Yes,The event exceeded my expectations.,Hall B,Hybrid,6
+247,Science Fair 2025,4,Yes,Workshops were insightful and engaging.,Conference Room D,Hybrid,6
+248,Sports Meet 2025,5,Yes,Loved the variety of topics covered.,Conference Room D,Online,4
+249,Sports Meet 2025,5,Yes,Excellent guest lectures and interactive sessions.,Hall B,Offline,4
+250,Cultural Fest 2025,4,Yes,Workshops were insightful and engaging.,Auditorium A,Online,6
+251,Cultural Fest 2025,3,No,"Event was okay, nothing special.",Open Air Theater,Offline,6
+252,Sports Meet 2025,5,Yes,Good coordination and helpful volunteers.,Auditorium A,Online,2
+253,Startup Summit 2025,5,Yes,Excellent guest lectures and interactive sessions.,Conference Room D,Hybrid,5
+254,Cultural Fest 2025,4,Yes,Loved the variety of topics covered.,Hall B,Hybrid,4
+255,Startup Summit 2025,3,Yes,Okay experience for a first-time attendee.,Hall B,Offline,2
+256,Sports Meet 2025,1,Yes,Lunch quality could be better.,Ground C,Online,6
+257,Science Fair 2025,5,Yes,Great networking opportunities and very well organized.,Open Air Theater,Offline,5
+258,Startup Summit 2025,5,Yes,Enjoyed the cultural programs and games.,Open Air Theater,Online,5
+259,TechFest 2025,3,No,Moderate experience overall.,Auditorium A,Hybrid,5
+260,Startup Summit 2025,2,No,Lunch quality could be better.,Auditorium A,Hybrid,6
+261,TechFest 2025,3,No,The day went smoothly but could be improved.,Ground C,Hybrid,4
+262,TechFest 2025,3,No,Overall fine but needs better planning.,Ground C,Online,5
+263,Science Fair 2025,1,Yes,Sessions were too long and lacked interaction.,Conference Room D,Online,6
+264,Science Fair 2025,4,Yes,Amazing event! Loved the workshops and guest speakers.,Ground C,Online,2
+265,Cultural Fest 2025,5,Yes,Great networking opportunities and very well organized.,Auditorium A,Hybrid,6
+266,Startup Summit 2025,2,Yes,Too crowded and noisy.,Open Air Theater,Hybrid,2
+267,Startup Summit 2025,4,Yes,Superb management and quality content.,Conference Room D,Offline,4
+268,Science Fair 2025,4,Yes,Great networking opportunities and very well organized.,Ground C,Hybrid,3
+269,Science Fair 2025,5,Yes,Loved the variety of topics covered.,Hall B,Hybrid,6
+270,Science Fair 2025,5,Yes,Enjoyed the cultural programs and games.,Hall B,Hybrid,2
+271,Cultural Fest 2025,5,Yes,The event exceeded my expectations.,Open Air Theater,Hybrid,6
+272,TechFest 2025,2,No,Not enough Q&A time after sessions.,Open Air Theater,Online,2
+273,Science Fair 2025,1,Yes,Event started late and schedule was confusing.,Hall B,Offline,6
+274,Startup Summit 2025,2,Yes,Not enough Q&A time after sessions.,Hall B,Offline,3
+275,TechFest 2025,2,No,Poor time management and technical issues during presentations.,Ground C,Offline,3
+276,Sports Meet 2025,4,Yes,"Wonderful experience, looking forward to next year.",Ground C,Hybrid,6
+277,Cultural Fest 2025,1,Yes,Not enough seating arrangements for attendees.,Hall B,Online,6
+278,Sports Meet 2025,4,Yes,Loved the variety of topics covered.,Auditorium A,Hybrid,5
+279,Cultural Fest 2025,1,Yes,Guest lectures were boring and repetitive.,Open Air Theater,Online,5
+280,Cultural Fest 2025,4,Yes,Great networking opportunities and very well organized.,Open Air Theater,Hybrid,3
+281,TechFest 2025,2,No,Not enough Q&A time after sessions.,Hall B,Offline,2
+282,Startup Summit 2025,3,Yes,Moderate experience overall.,Ground C,Offline,3
+283,Science Fair 2025,2,No,Sessions were too long and lacked interaction.,Hall B,Hybrid,5
+284,Sports Meet 2025,3,No,Had both positives and negatives.,Ground C,Offline,3
+285,Science Fair 2025,5,Yes,Loved the variety of topics covered.,Auditorium A,Offline,6
+286,Science Fair 2025,1,Yes,Not enough Q&A time after sessions.,Hall B,Online,3
+287,Cultural Fest 2025,1,No,Not enough seating arrangements for attendees.,Conference Room D,Offline,6
+288,Science Fair 2025,5,Yes,Amazing event! Loved the workshops and guest speakers.,Hall B,Offline,2
+289,TechFest 2025,1,Yes,Not enough Q&A time after sessions.,Open Air Theater,Hybrid,3
+290,Startup Summit 2025,2,No,Sessions were too long and lacked interaction.,Hall B,Offline,5
+291,Startup Summit 2025,5,Yes,"Wonderful experience, looking forward to next year.",Conference Room D,Offline,6
+292,Startup Summit 2025,1,Yes,Sound system had frequent issues.,Ground C,Online,2
+293,TechFest 2025,4,Yes,Superb management and quality content.,Hall B,Hybrid,6
+294,Science Fair 2025,1,No,Workshops were rushed and lacked depth.,Hall B,Hybrid,4
+295,Startup Summit 2025,5,Yes,Good coordination and helpful volunteers.,Auditorium A,Offline,3
+296,TechFest 2025,1,No,Not enough seating arrangements for attendees.,Open Air Theater,Online,3
+297,Sports Meet 2025,1,Yes,Guest lectures were boring and repetitive.,Ground C,Hybrid,5
+298,Science Fair 2025,4,Yes,Workshops were insightful and engaging.,Open Air Theater,Online,6
+299,Cultural Fest 2025,5,Yes,Superb management and quality content.,Conference Room D,Online,5
+300,Startup Summit 2025,2,Yes,Sound system had frequent issues.,Conference Room D,Online,5
+301,Startup Summit 2025,3,No,The event went as expected.,Open Air Theater,Hybrid,5
+302,Startup Summit 2025,1,Yes,Not enough Q&A time after sessions.,Ground C,Hybrid,5
+303,Startup Summit 2025,2,Yes,Sessions were too long and lacked interaction.,Auditorium A,Offline,6
+304,Science Fair 2025,2,No,Event started late and schedule was confusing.,Auditorium A,Online,3
+305,TechFest 2025,2,Yes,Not enough seating arrangements for attendees.,Open Air Theater,Online,2
+306,Cultural Fest 2025,5,Yes,Excellent guest lectures and interactive sessions.,Open Air Theater,Offline,3
+307,Sports Meet 2025,4,Yes,Enjoyed the cultural programs and games.,Auditorium A,Offline,5
+308,TechFest 2025,1,Yes,Not enough Q&A time after sessions.,Auditorium A,Hybrid,6
+309,Science Fair 2025,2,Yes,Event started late and schedule was confusing.,Ground C,Offline,2
+310,Cultural Fest 2025,1,Yes,Lunch quality could be better.,Auditorium A,Hybrid,6
+311,Sports Meet 2025,2,No,Poor time management and technical issues during presentations.,Conference Room D,Offline,2
+312,Startup Summit 2025,4,Yes,Enjoyed the cultural programs and games.,Ground C,Offline,6
+313,Sports Meet 2025,2,Yes,Sessions were too long and lacked interaction.,Ground C,Hybrid,3
+314,Sports Meet 2025,3,Yes,The day went smoothly but could be improved.,Ground C,Hybrid,4
+315,Startup Summit 2025,5,Yes,Superb management and quality content.,Open Air Theater,Hybrid,2
+316,Startup Summit 2025,4,Yes,Loved the variety of topics covered.,Open Air Theater,Hybrid,6
+317,Cultural Fest 2025,3,Yes,Overall fine but needs better planning.,Hall B,Offline,2
+318,TechFest 2025,3,Yes,The event went as expected.,Conference Room D,Online,5
+319,Cultural Fest 2025,2,No,Lunch quality could be better.,Auditorium A,Online,2
+320,Science Fair 2025,2,Yes,Sound system had frequent issues.,Hall B,Hybrid,5
+321,TechFest 2025,1,Yes,Sessions were too long and lacked interaction.,Ground C,Offline,5
+322,TechFest 2025,3,Yes,"It was average, some parts were good, some not.",Auditorium A,Online,4
+323,Sports Meet 2025,2,Yes,Poor time management and technical issues during presentations.,Auditorium A,Online,4
+324,Science Fair 2025,4,Yes,Great networking opportunities and very well organized.,Open Air Theater,Online,6
+325,Startup Summit 2025,1,Yes,Lunch quality could be better.,Ground C,Hybrid,6
+326,Science Fair 2025,4,Yes,Excellent guest lectures and interactive sessions.,Open Air Theater,Offline,4
+327,Cultural Fest 2025,5,Yes,Superb management and quality content.,Open Air Theater,Offline,6
+328,Cultural Fest 2025,3,No,"Some sessions were good, others not so much.",Hall B,Online,4
+329,Cultural Fest 2025,4,Yes,Enjoyed the cultural programs and games.,Conference Room D,Hybrid,2
+330,Startup Summit 2025,4,Yes,Superb management and quality content.,Conference Room D,Online,4
+331,TechFest 2025,2,No,Not enough Q&A time after sessions.,Conference Room D,Offline,2
+332,Science Fair 2025,1,No,Workshops were rushed and lacked depth.,Auditorium A,Online,4
+333,TechFest 2025,5,Yes,Loved the variety of topics covered.,Conference Room D,Hybrid,4
+334,Science Fair 2025,4,Yes,The event exceeded my expectations.,Open Air Theater,Offline,5
+335,Science Fair 2025,4,Yes,The event exceeded my expectations.,Open Air Theater,Hybrid,2
+336,Science Fair 2025,2,Yes,Poor time management and technical issues during presentations.,Conference Room D,Hybrid,5
+337,Sports Meet 2025,1,Yes,Guest lectures were boring and repetitive.,Hall B,Offline,2
+338,TechFest 2025,4,Yes,Excellent guest lectures and interactive sessions.,Ground C,Offline,6
+339,Startup Summit 2025,4,Yes,Amazing event! Loved the workshops and guest speakers.,Conference Room D,Hybrid,4
+340,Sports Meet 2025,3,Yes,"It was average, some parts were good, some not.",Open Air Theater,Online,3
+341,TechFest 2025,1,Yes,Event started late and schedule was confusing.,Hall B,Offline,4
+342,Cultural Fest 2025,4,Yes,Superb management and quality content.,Conference Room D,Hybrid,2
+343,Science Fair 2025,4,Yes,Great networking opportunities and very well organized.,Hall B,Offline,2
+344,Cultural Fest 2025,1,No,Sessions were too long and lacked interaction.,Hall B,Online,4
+345,Startup Summit 2025,4,Yes,Amazing event! Loved the workshops and guest speakers.,Ground C,Offline,6
+346,TechFest 2025,4,Yes,Good coordination and helpful volunteers.,Conference Room D,Offline,2
+347,Sports Meet 2025,5,Yes,Good coordination and helpful volunteers.,Conference Room D,Hybrid,2
+348,Sports Meet 2025,3,Yes,The event went as expected.,Open Air Theater,Offline,5
+349,Sports Meet 2025,2,Yes,Workshops were rushed and lacked depth.,Hall B,Offline,4
+350,Science Fair 2025,2,No,Poor time management and technical issues during presentations.,Open Air Theater,Hybrid,3
+351,Sports Meet 2025,4,Yes,"Wonderful experience, looking forward to next year.",Open Air Theater,Hybrid,2
+352,Science Fair 2025,2,No,Guest lectures were boring and repetitive.,Conference Room D,Hybrid,6
+353,Startup Summit 2025,2,No,Not enough Q&A time after sessions.,Hall B,Offline,3
+354,Startup Summit 2025,3,Yes,The event went as expected.,Auditorium A,Offline,3
+355,Startup Summit 2025,5,Yes,Workshops were insightful and engaging.,Auditorium A,Online,2
+356,Science Fair 2025,2,No,Workshops were rushed and lacked depth.,Auditorium A,Online,6
+357,Sports Meet 2025,2,Yes,Lunch quality could be better.,Hall B,Offline,2
+358,Startup Summit 2025,2,No,Lunch quality could be better.,Ground C,Online,6
+359,TechFest 2025,4,Yes,Enjoyed the cultural programs and games.,Conference Room D,Online,2
+360,Sports Meet 2025,1,Yes,Not enough seating arrangements for attendees.,Hall B,Hybrid,2
+361,TechFest 2025,1,Yes,Not enough seating arrangements for attendees.,Ground C,Offline,5
+362,Sports Meet 2025,4,Yes,Good coordination and helpful volunteers.,Conference Room D,Online,4
+363,Startup Summit 2025,5,Yes,The event exceeded my expectations.,Ground C,Online,3
+364,Cultural Fest 2025,2,Yes,Too crowded and noisy.,Auditorium A,Online,4
+365,TechFest 2025,1,No,Not enough Q&A time after sessions.,Hall B,Hybrid,3
+366,Sports Meet 2025,1,Yes,Not enough Q&A time after sessions.,Open Air Theater,Offline,4
+367,Cultural Fest 2025,1,No,Event started late and schedule was confusing.,Conference Room D,Offline,4
+368,Science Fair 2025,4,Yes,Enjoyed the cultural programs and games.,Conference Room D,Offline,2
+369,Cultural Fest 2025,1,No,Not enough seating arrangements for attendees.,Conference Room D,Online,5
+370,Sports Meet 2025,1,No,Sound system had frequent issues.,Ground C,Offline,3
+371,Cultural Fest 2025,4,Yes,The event exceeded my expectations.,Open Air Theater,Offline,3
+372,Sports Meet 2025,4,Yes,Workshops were insightful and engaging.,Conference Room D,Offline,5
+373,Sports Meet 2025,4,Yes,Enjoyed the cultural programs and games.,Hall B,Offline,2
+374,Sports Meet 2025,3,Yes,"Neither good nor bad, just fine.",Ground C,Offline,5
+375,Science Fair 2025,3,Yes,"It was average, some parts were good, some not.",Open Air Theater,Offline,4
+376,Science Fair 2025,1,No,Sessions were too long and lacked interaction.,Hall B,Offline,3
+377,TechFest 2025,1,Yes,Sound system had frequent issues.,Auditorium A,Offline,6
+378,TechFest 2025,3,No,"Some sessions were good, others not so much.",Ground C,Hybrid,2
+379,TechFest 2025,4,Yes,Enjoyed the cultural programs and games.,Hall B,Hybrid,3
+380,Cultural Fest 2025,1,No,Not enough Q&A time after sessions.,Auditorium A,Online,5
+381,Science Fair 2025,4,Yes,Loved the variety of topics covered.,Hall B,Hybrid,4
+382,Sports Meet 2025,1,No,Too crowded and noisy.,Conference Room D,Offline,6
+383,Startup Summit 2025,1,Yes,Too crowded and noisy.,Open Air Theater,Online,4
+384,Startup Summit 2025,3,No,Okay experience for a first-time attendee.,Auditorium A,Hybrid,4
+385,TechFest 2025,2,No,Too crowded and noisy.,Open Air Theater,Hybrid,4
+386,TechFest 2025,1,No,Lunch quality could be better.,Auditorium A,Offline,4
+387,TechFest 2025,3,No,Moderate experience overall.,Open Air Theater,Hybrid,5
+388,Startup Summit 2025,5,Yes,Excellent guest lectures and interactive sessions.,Hall B,Hybrid,5
+389,TechFest 2025,3,No,"Some sessions were good, others not so much.",Conference Room D,Hybrid,5
+390,TechFest 2025,3,Yes,Okay experience for a first-time attendee.,Auditorium A,Online,3
+391,Startup Summit 2025,3,No,"It was average, some parts were good, some not.",Ground C,Hybrid,3
+392,Startup Summit 2025,4,Yes,Enjoyed the cultural programs and games.,Hall B,Offline,3
+393,Science Fair 2025,2,Yes,Not enough seating arrangements for attendees.,Conference Room D,Online,4
+394,Sports Meet 2025,5,Yes,Enjoyed the cultural programs and games.,Open Air Theater,Offline,2
+395,Cultural Fest 2025,3,No,Had both positives and negatives.,Auditorium A,Online,6
+396,TechFest 2025,3,No,The event went as expected.,Open Air Theater,Online,2
+397,Sports Meet 2025,1,No,Lunch quality could be better.,Conference Room D,Offline,2
+398,Science Fair 2025,3,No,Okay experience for a first-time attendee.,Ground C,Offline,4
+399,Cultural Fest 2025,5,Yes,Workshops were insightful and engaging.,Ground C,Offline,6
+400,Science Fair 2025,4,Yes,Loved the variety of topics covered.,Open Air Theater,Hybrid,4
